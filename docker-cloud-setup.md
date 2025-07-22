@@ -28,7 +28,7 @@ Manage Jenkins → Manage Nodes and Clouds → Configure Clouds
 
 ### 2. Add a New Docker Cloud
 
-- Click **"Add a new cloud"**
+- Click **"Add a new cloud"** > **Name:** 'DockerCloud'
 - Select **"Docker"**
 
 ---
