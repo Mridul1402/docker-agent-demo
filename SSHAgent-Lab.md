@@ -76,7 +76,7 @@ If it logs in **without a password**, you're good to go.
 Now follow the earlier steps:
 
 * Add a new node, Name: ssh
-* Use launch method: **"SSH"**
+* Use launch method: **"Launch agents via SSH"**
 * Label: ssh
 * Host: your public IP
 * Remote directory: `/home/labuser/jenkins-agent`
