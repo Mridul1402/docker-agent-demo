@@ -19,6 +19,9 @@ This will generate:
 * Private key: `/home/labuser/.ssh/id_rsa`
 * Public key: `/home/labuser/.ssh/id_rsa.pub`
 
+<img width="730" height="280" alt="image" src="https://github.com/user-attachments/assets/580fc7ce-a5fb-4c70-96cd-7f241bad39f8" />
+
+
 ---
 
 ### Step 2: Allow SSH to Itself
