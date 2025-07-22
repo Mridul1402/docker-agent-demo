@@ -8,6 +8,8 @@ ssh-keygen -t rsa -b 4096 -f ~/.ssh/id_rsa -N ""
 ```
 
 * `-t rsa`: Use RSA algorithm
+* The full form of RSA is Rivest, Shamir, Adleman. It is named after its inventors, Ron Rivest, Adi Shamir, and Leonard Adleman.
+* RSA is a public-key cryptosystem widely used for secure data transmission, particularly over the internet. 
 * `-b 4096`: 4096-bit key
 * `-f ~/.ssh/id_rsa`: File to save the key
 * `-N ""`: No passphrase
