@@ -16,8 +16,8 @@ ssh-keygen -t rsa -b 4096 -f ~/.ssh/id_rsa -N ""
 
 This will generate:
 
-* Private key: `/home/labuser/.ssh/id_rsa`
-* Public key: `/home/labuser/.ssh/id_rsa.pub`
+* Private key: `/home/labuser/.ssh/id_rsa` **(With Jenkins)**
+* Public key: `/home/labuser/.ssh/id_rsa.pub` **(With Slave Machine)**
 
 <img width="730" height="280" alt="image" src="https://github.com/user-attachments/assets/580fc7ce-a5fb-4c70-96cd-7f241bad39f8" />
 
