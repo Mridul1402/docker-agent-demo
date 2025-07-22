@@ -67,6 +67,7 @@ If it logs in **without a password**, you're good to go.
      ```
 
    * Add description: e.g., `labuser-ssh-key`
+   * ID: ssh-key
 
 ---
 
