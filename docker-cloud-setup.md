@@ -74,6 +74,11 @@ sudo systemctl restart jenkins
 * Click the **"Test Connection"** button
 * You should see a confirmation that the Docker host connection is successful
 
+### 6. Additional checks
+
+* **"Enabled"** True
+* **"Expose DOCKER_HOST"** True
+
 ---
 
 ## Next Steps: Add Docker Agent Template
