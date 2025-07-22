@@ -91,7 +91,7 @@ Once the Docker Cloud is configured, you can define a Docker Agent Template:
 * **Docker Image**: Use a prebuilt agent image (e.g., `jenkins/inbound-agent`)
 * **Remote File System Root**: (e.g., `/home/jenkins`)
 * **Usage**: Use this node as much as possible
-* **Connect Method**: Attach Docker as Container, Levave everything (user, Java, EntryPoint CMD) as empty.
+* **Connect Method**: Attach Docker Container, Levave everything (user, Java, EntryPoint CMD) as empty.
 
 Use this label in your Jenkins pipelines to run builds inside Docker containers.
 
