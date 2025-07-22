@@ -83,7 +83,7 @@ Now follow the earlier steps:
 * Select Method Lanuch By SSH
 * Select Host as Public IP of your Lab
 * Credentials: Select `labuser-ssh-key`
-* Select Host Key Verification Strategy as  - No verifying Verification strategy
+* Select Host Key Verification Strategy as  - Non verifying Verification strategy
 
 
 ---
